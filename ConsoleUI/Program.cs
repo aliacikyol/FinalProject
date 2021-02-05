@@ -13,6 +13,8 @@ namespace ConsoleUI
             {
                 Console.WriteLine(product.ProductName);
             }
+            //Abstract-Soyut nesneleri,İnterface,Base classların olduğu dosya
+            //Concrete-Somut nesnelerin olduğu dosya
         }
     }
 }
